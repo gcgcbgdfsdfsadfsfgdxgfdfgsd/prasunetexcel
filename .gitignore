@@ -1,7 +1,8 @@
 *~
 plan/
 /target
-/dist
+/dist/*
+!/dist/web
 /corpus
 /log
 .DS_Store
